@@ -57,8 +57,3 @@ angle = 9.4
 shape = "italic"
 menu = "italic"
 css = "italic"
-[buildPlans.PieMono.metricOverride]
-xHeight = 560
-cap = 730
-ascender = 750
-leading = 1200
